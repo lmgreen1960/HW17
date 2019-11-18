@@ -328,7 +328,7 @@ div .campbg{
 
 .campbg.rainforest{
     color:white;
-    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url("../images/rainforestbg.jpg");
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url("../Images/rainforestbg.jpg");
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
@@ -343,7 +343,7 @@ div .campbg{
     background-size: cover;
     height:275px;
     margin-top:70px;
-    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url("../images/coralbg.jpg");
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url("../Images/coralbg.jpg");
 }
 
 .campbg p{
