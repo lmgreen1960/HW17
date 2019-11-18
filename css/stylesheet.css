@@ -314,7 +314,7 @@ h1.display-4.camp  {
 div .campbg{
     width:75%;
     display:flex;
-    background-image: url("../images/rainforestbg.jpg");
+    background-image: url("../Images/rainforestbg.jpg");
     /* margin:0 0 0 50%; */
     background-repeat:no-repeat;
     background-position: center;
